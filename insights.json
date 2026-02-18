@@ -1,12 +1,21 @@
 [
     {
+        "title": "After CES 2026: Will the “robot economy” run on Web3 rails?",
+        "description": "",
+        "link": "https://medium.com/@admin_40985/after-ces-2026-will-the-robot-economy-run-on-web3-rails-2f4118e43850?source=rss-757633badc35------2",
+        "image": "https://cdn-images-1.medium.com/max/1024/1*Gb1V1WSQHQYE3IjHBjE7XA.jpeg",
+        "date": "Jan 16, 2026",
+        "show": true,
+        "isNew": true
+    },
+    {
         "title": "The AI-Web3 Convergence Is Here: 9Transformative Shifts Investors Can’t Ignore in 2026",
         "description": "",
         "link": "https://medium.com/@admin_40985/the-ai-web3-convergence-is-here-9transformative-shifts-investors-cant-ignore-in-2026-56230871dd8a?source=rss-757633badc35------2",
         "image": "https://cdn-images-1.medium.com/max/1024/1*RQLYlJU29rOAx-VK-F1wPA.jpeg",
         "date": "Dec 22, 2025",
         "show": true,
-        "isNew": true
+        "isNew": false
     },
     {
         "title": "From Fortress to Frontier: Why J.P. Morgan Just Validated the Onchain Capital Markets",
@@ -77,15 +86,6 @@
         "link": "https://medium.com/@admin_40985/the-1m-hour-cloud-failure-that-validated-a-3-5-trillion-opportunity-fe330c32edb1?source=rss-757633badc35------2",
         "image": "https://cdn-images-1.medium.com/max/1024/1*IcyoqHwUM9ZX-kT_dcLpaQ.jpeg",
         "date": "Oct 22, 2025",
-        "show": true,
-        "isNew": false
-    },
-    {
-        "title": "The Rise of Autonomous Finance: Why DeFi Needs AI to Reach Institutional Scale",
-        "description": "",
-        "link": "https://medium.com/@admin_40985/the-rise-of-autonomous-finance-why-defi-needs-ai-to-reach-institutional-scale-92b681964263?source=rss-757633badc35------2",
-        "image": "https://cdn-images-1.medium.com/max/1024/1*-1wpy6CAylvsie_259OmVg.png",
-        "date": "Oct 15, 2025",
         "show": true,
         "isNew": false
     }
